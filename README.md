@@ -10,3 +10,7 @@ Or if you want to extract a single level:
 `python ExtractLevels.py input.lss output_dir --level level_name`
 
 The output will be located at `output_dir/level_name.lss`.
+
+## Requirements
+
+Built and tested with Python `3.8.8`.
